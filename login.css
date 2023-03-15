@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+	margin: 0;
+}
+.head {
+    background-color: #333;
+	color: #fff;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.mail {
+    width: 226px;
+    height: 28px;
+    cursor: pointer;
+}
+.pass {
+    width: 226px;
+    height: 28px;
+    cursor: pointer;
+}
+h5{
+    width: 283px;
+    height: 28px;
+}
+.checkbox {
+ justify-content: center;
+ height: 22px;
+ cursor: pointer;
+ }
+ .but{
+    width: 81px;
+    height: 30px;
+    cursor: pointer;
+ }
+ .center {
+    padding: 4%;
+ }
+ .foo {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -18px;
+    margin-left: -9px;
+    margin-right: -55px;
+    margin-top: 196px;
+ }
